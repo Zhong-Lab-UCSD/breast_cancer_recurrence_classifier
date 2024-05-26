@@ -12,7 +12,7 @@ Due to size limit on github, please download the TPM and read counts files from 
 
 [pnas_normal_readcounts.txt](https://drive.google.com/file/d/1326YhfmDvsKiAIUvGLCmI5ATtg14ilnT/view?usp=drive_link)
 
-### Validation breast cancer and normal samples TPM and read counts
+### (Optional) Validation breast cancer and normal samples TPM and read counts
 
 [validation_exon_tpm](https://drive.google.com/file/d/132SqcseNviOUn-BRcFGrJItSGYjnkNjT/view?usp=drive_link)
 
