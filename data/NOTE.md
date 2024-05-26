@@ -2,9 +2,9 @@ Due to size limit on github, please download the TPM and read counts files from 
 
 ### PNAS paper breast cancer samples TPM and read counts
 
-[pnas_tpm_96_nodup.txt](https://drive.google.com/file/d/1GrlYWC7zii7fLKPs_5ihOq4Uuo9IdxTN/view?usp=sharing)
+[pnas_tpm_96_nodup.txt](https://drive.google.com/file/d/1370lMPBCqs1xhH-r_IbqhJ7iWjsLp6_v/view?usp=drive_link)
 
-[pnas_readcounts_96_nodup.txt](https://drive.google.com/file/d/1WZxrE1sR-t2vN9PPUXhDwJFTK--TkI9Q/view?usp=sharing)
+[pnas_readcounts_96_nodup.txt](https://drive.google.com/file/d/13EyL_gtCaBmKd-l3VR6BIsu6z_qQWXkY/view?usp=drive_link)
 
 ### PNAS paper normal samples TPM and read counts
 
@@ -14,6 +14,6 @@ Due to size limit on github, please download the TPM and read counts files from 
 
 ### Validation breast cancer and normal samples TPM and read counts
 
-[validation_exon_tpm](https://drive.google.com/file/d/13L32G_Dkqwy9yRC5ZF3eHLEVe-j25q84/view?usp=sharing)
+[validation_exon_tpm](https://drive.google.com/file/d/132SqcseNviOUn-BRcFGrJItSGYjnkNjT/view?usp=drive_link)
 
-[validation_exon_readcounts](https://drive.google.com/file/d/1Cp40MNG440Rfu3f2hLqL7V7bObeoiMiG/view?usp=sharing)
+[validation_exon_readcounts](https://drive.google.com/file/d/135UwNKfaUnHQWeLKTM_z5BW0NH1wrjCh/view?usp=drive_link)
