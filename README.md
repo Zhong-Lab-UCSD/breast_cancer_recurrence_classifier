@@ -32,5 +32,6 @@ As stated in the section above, the goals of this project are
 - validation_exon_readcounts: Exon level read counts for validation breast cancer and normal samples based on their Mapping ID.
 - validation_exon_tpm: Exon level TPM for validation breast cancer and normal samples based on their Mapping ID.
 
+Data can also be downloaded from this Google Drive (https://drive.google.com/open?id=1BBqjzBPnflQnV1v5R1L8lmOvR8Q8MjY2&usp=drive_fs). 
 
 
