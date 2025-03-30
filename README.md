@@ -22,9 +22,12 @@ As stated in the section above, the goals of this project are
 - pnas_normal_tpm.txt: Exon level TPM for all 32 normal samples in PNAS paper.
 - pnas_normal_readcounts.txt: Exon level reads counts for all 32 normal samples in PNAS paper.
 
-## Validation Samples and Data
+#### Alternative download source
+Data can also be downloaded from this Google Drive (https://drive.google.com/open?id=1BBqjzBPnflQnV1v5R1L8lmOvR8Q8MjY2&usp=drive_fs). 
+
+## Optional Data
 ### Raw Data
-#### Concepts
+#### Sample Information
 - Mapping ID (e.g. BCSC_S5_01): A unique ID given to data for each sample to connect data with metainfo of the corresponding sample
 #### Documents
 - validation_bc_meta.xlsx: Metainfo for validation breast cancer samples based on their Mapping ID. 
@@ -32,7 +35,6 @@ As stated in the section above, the goals of this project are
 - validation_exon_readcounts: Exon level read counts for validation breast cancer and normal samples based on their Mapping ID.
 - validation_exon_tpm: Exon level TPM for validation breast cancer and normal samples based on their Mapping ID.
 
-#### Alternative download source
-Data can also be downloaded from this Google Drive (https://drive.google.com/open?id=1BBqjzBPnflQnV1v5R1L8lmOvR8Q8MjY2&usp=drive_fs). 
+
 
 
